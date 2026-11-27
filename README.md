@@ -15,7 +15,7 @@ Predict whether an airline passenger is **satisfied** or **neutral/dissatisfied*
 - **Test data:** `test_data.csv` is the 20 % hold-out set (25,976 rows) saved *before* preprocessing, so it still contains the original raw values (including 64 missing `Arrival Delay in Minutes` values). The saved pipelines impute, scale and encode it themselves.
 
 ## 3. GitHub repository link
-`<paste your repository link here>`
+`(https://github.com/2026ct05172-jvnganesh/ML_assignment_2_2026CT05172/tree/main)`
 
 ## 4. Models used
 Test set = 25,976 rows (20 %).
